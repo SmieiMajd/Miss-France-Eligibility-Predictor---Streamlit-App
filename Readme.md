@@ -1,5 +1,6 @@
 # Miss-France-Eligibility-Predictor---Streamlit-App
 This Streamlit app uses logistic regression to predict a woman's eligibility for the Miss France pageant. Input your information and get instant feedback on your eligibility. Built with Python, Streamlit, Sklearn, Pandas and other libraries. 
+
 Introduction Welcome to the Miss France Eligibility Predictor, a Streamlit app that uses logistic regression to predict a woman's eligibility to participate in the Miss France pageant based on her age, occupation, height, and weight.
 
 # Installation
@@ -25,4 +26,4 @@ This project is licensed under the MIT License.
 # Conclusion
 I hope you find this app useful and informative. If you have any questions or feedback, please don't hesitate to reach out. Thanks for checking out the Miss France Eligibility Predictor!
 
-Enjoy !
+**Enjoy !
